@@ -1,4 +1,4 @@
-# USBee - Smart USB Protection for Windows
+# USBee - USB Protection for Windows
 
 USBee is a Windows security application designed to prevent unauthorized or potentially dangerous USB access.  
 Whenever a new USB device is inserted into the computer, USBee automatically disables the device and prompts the user for a password before allowing the device to operate.
